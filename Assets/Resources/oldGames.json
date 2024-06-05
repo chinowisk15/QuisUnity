@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Qual é o nome do encanador protagonista de muitos jogos da Nintendo?",
+      "answers": ["Luigi", "Wario", "Mario", "Toad"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual era o nome do principal vilão no jogo 'The Legend of Zelda: Ocarina of Time'?",
+      "answers": ["Ganondorf", "Vaati", "Zant", "Majora"],
+      "correct": "A"
+    },
+    {
+      "question": "Em qual ano foi lançado o jogo 'Pac-Man'?",
+      "answers": ["1978", "1980", "1982", "1984"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual console foi o principal rival do Super Nintendo Entertainment System (SNES)?",
+      "answers": ["Sega Genesis", "Atari 2600", "PlayStation", "Neo Geo"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual jogo de luta é famoso por suas fatalities?",
+      "answers": ["Street Fighter", "Tekken", "Mortal Kombat", "SoulCalibur"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual era o nome do personagem principal em 'Metal Gear Solid'?",
+      "answers": ["Solid Snake", "Big Boss", "Raiden", "Ocelot"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual jogo popularizou o gênero 'battle royale'?",
+      "answers": ["Fortnite", "PlayerUnknown's Battlegrounds (PUBG)", "Call of Duty: Warzone", "Apex Legends"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Sonic the Hedgehog', qual é o nome do antagonista principal?",
+      "answers": ["Dr. Eggman", "Knuckles", "Shadow", "Silver"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual jogo é conhecido pelo seu código de trapaça 'IDDQD'?",
+      "answers": ["Doom", "Quake", "Duke Nukem 3D", "Half-Life"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual foi o primeiro jogo de plataforma a permitir que o jogador andasse para a esquerda e para a direita?",
+      "answers": ["Super Mario Bros.", "Pitfall!", "Donkey Kong", "Prince of Persia"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual jogo é famoso pelo personagem que coleta argolas douradas?",
+      "answers": ["Super Mario Bros.", "Donkey Kong", "Sonic the Hedgehog", "Pac-Man"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual jogo foi considerado o primeiro RPG eletrônico?",
+      "answers": ["Final Fantasy", "Dragon Quest", "Ultima", "Zork"],
+      "correct": "C"
+    },
+    {
+      "question": "Em qual jogo original de arcade aparece a frase 'It's dangerous to go alone! Take this.'?",
+      "answers": ["Metroid", "The Legend of Zelda", "Castlevania", "Dragon Warrior"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual era o nome do jogo de arcade que permitia aos jogadores controlar uma nave que atirava em alienígenas invasores?",
+      "answers": ["Galaga", "Asteroids", "Space Invaders", "Defender"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual foi o primeiro jogo lançado para o console PlayStation 1?",
+      "answers": ["Resident Evil", "Final Fantasy VII", "Ridge Racer", "Tekken"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual série de jogos apresenta um personagem principal chamado Link?",
+      "answers": ["Final Fantasy", "The Legend of Zelda", "Dragon Quest", "Fire Emblem"],
+      "correct": "B"
+    },
+    {
+      "question": "Em que jogo você encontrará a 'Master Sword'?",
+      "answers": ["Final Fantasy", "The Legend of Zelda", "Dragon Quest", "Chrono Trigger"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual era o nome do personagem que você controlava no jogo 'Metroid'?",
+      "answers": ["Samus Aran", "Link", "Mario", "Fox McCloud"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual jogo famoso tem um personagem principal chamado Lara Croft?",
+      "answers": ["Uncharted", "Resident Evil", "Tomb Raider", "Prince of Persia"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome do jogo de estratégia em tempo real onde os jogadores controlam civilizações históricas?",
+      "answers": ["Age of Empires", "Warcraft", "Starcraft", "Civilization"],
+      "correct": "A"
+    }
+  ]
+}

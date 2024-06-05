@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Qual é o nome do protagonista de 'Naruto'?",
+      "answers": ["Sasuke Uchiha", "Kakashi Hatake", "Naruto Uzumaki", "Sakura Haruno"],
+      "correct": "C"
+    },
+    {
+      "question": "Em 'One Piece', qual é o objetivo principal de Monkey D. Luffy?",
+      "answers": ["Encontrar o tesouro de One Piece", "Derrotar a Marinha", "Proteger a Vila Konoha", "Ser o Rei dos Piratas"],
+      "correct": "D"
+    },
+    {
+      "question": "Qual é o nome do shinigami que acompanha Light Yagami em 'Death Note'?",
+      "answers": ["Ryuk", "Rem", "L", "Misa"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome do protagonista de 'Dragon Ball Z'?",
+      "answers": ["Vegeta", "Goku", "Piccolo", "Krillin"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Attack on Titan', quem é o verdadeiro traidor que revela ser um Titã?",
+      "answers": ["Armin Arlert", "Mikasa Ackerman", "Reiner Braun", "Levi Ackerman"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome da espada empunhada por Ichigo Kurosaki em 'Bleach'?",
+      "answers": ["Zabimaru", "Tensa Zangetsu", "Benihime", "Senbonzakura"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'My Hero Academia', qual é o poder (Quirk) de Izuku Midoriya?",
+      "answers": ["Explosion", "Half-Cold Half-Hot", "One For All", "Zero Gravity"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome do protagonista de 'Fullmetal Alchemist'?",
+      "answers": ["Roy Mustang", "Edward Elric", "Alphonse Elric", "Winry Rockbell"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Sword Art Online', qual é o nome do jogo em que os jogadores ficam presos?",
+      "answers": ["Gun Gale Online", "Aincrad", "Alfheim Online", "Sword Art Online"],
+      "correct": "D"
+    },
+    {
+      "question": "Qual é o objetivo de Gon Freecss em 'Hunter x Hunter'?",
+      "answers": ["Encontrar seu pai", "Ser o melhor caçador", "Derrotar a Aranha", "Coletar todas as relíquias"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome do anime em que os personagens jogam partidas mortais de xadrez?",
+      "answers": ["Death Parade", "No Game No Life", "Overlord", "Log Horizon"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Tokyo Ghoul', qual é o nome do protagonista que se transforma em meio-ghoul?",
+      "answers": ["Touka Kirishima", "Kaneki Ken", "Amon Koutarou", "Rize Kamishiro"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual é o nome do irmão mais novo de Edward Elric em 'Fullmetal Alchemist'?",
+      "answers": ["Roy Mustang", "Winry Rockbell", "Scar", "Alphonse Elric"],
+      "correct": "D"
+    },
+    {
+      "question": "Em 'One Punch Man', qual é o nome do herói que derrota todos os inimigos com um único soco?",
+      "answers": ["Genos", "Mumen Rider", "Bang", "Saitama"],
+      "correct": "D"
+    },
+    {
+      "question": "Qual é o nome do assassino em série que é o antagonista principal de 'Death Note'?",
+      "answers": ["L", "Light Yagami", "Near", "Mello"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Fairy Tail', qual é a habilidade mágica de Natsu Dragneel?",
+      "answers": ["Ice Magic", "Celestial Magic", "Dragon Slayer Magic", "Requip Magic"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome do protagonista de 'Code Geass' que possui o poder do Geass?",
+      "answers": ["Suzaku Kururugi", "Lelouch vi Britannia", "C.C.", "Kallen Stadtfeld"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Demon Slayer', qual é o nome da irmã de Tanjiro Kamado?",
+      "answers": ["Nezuko", "Shinobu", "Kanao", "Mitsuri"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome do grupo de vilões em 'Naruto'?",
+      "answers": ["Akatsuki", "Espada", "Homunculus", "Phantom Troupe"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'Black Clover', qual é o nome do protagonista que não possui magia?",
+      "answers": ["Yuno", "Asta", "Luck", "Noelle"],
+      "correct": "B"
+    }
+  ]
+}

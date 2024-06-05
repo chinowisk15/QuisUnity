@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Qual é o nome do cachorro de Shaggy no desenho 'Scooby-Doo'?",
+      "answers": ["Scrappy-Doo", "Scooby-Doo", "Daphne", "Velma"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual é o super-herói da série animada que mora em uma abacaxi no fundo do mar?",
+      "answers": ["Homem-Sereia", "Aquaman", "Bob Esponja", "Patrick"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome do vilão na série animada 'As Meninas Superpoderosas'?",
+      "answers": ["Mojo Jojo", "Coringa", "Dr. Doofenshmirtz", "Plankton"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'Os Simpsons', qual é o nome do dono do bar frequentado por Homer?",
+      "answers": ["Moe Szyslak", "Apu Nahasapeemapetilon", "Seymour Skinner", "Ned Flanders"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome do laboratório secreto de Dexter na série animada 'O Laboratório de Dexter'?",
+      "answers": ["Dextorium", "Dexlabs", "Dexter's Lab", "Lab secreto"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome do parque onde Mordecai e Rigby trabalham em 'Apenas um Show'?",
+      "answers": ["Central Park", "Parque Regular", "Parque Dos Sonhos", "Parque De Diversões"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Hora de Aventura', qual é o nome do cachorro mágico que acompanha Finn?",
+      "answers": ["BMO", "Jake", "Marceline", "Rei Gelado"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual é o nome do gato azul na série animada 'O Incrível Mundo de Gumball'?",
+      "answers": ["Darwin", "Richard", "Gumball", "Nicole"],
+      "correct": "C"
+    },
+    {
+      "question": "Em 'Futurama', qual é o nome do robô alcoólatra amigo de Fry?",
+      "answers": ["R2-D2", "Bender", "Wall-E", "Optimus Prime"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual é o nome do protagonista em 'Johnny Bravo'?",
+      "answers": ["Johnny Test", "Johnny Bravo", "Johnny English", "Johnny Cage"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual é o nome do rato cinza no desenho 'Tom e Jerry'?",
+      "answers": ["Jerry", "Tom", "Spike", "Butch"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'Os Flintstones', qual é o nome do melhor amigo de Fred?",
+      "answers": ["Barney", "George", "Wilma", "Betty"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome do jovem gênio em 'Jimmy Neutron'?",
+      "answers": ["Carl", "Sheen", "Jimmy", "Nick"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome do vilão principal em 'Os Vingadores: Os Super-Heróis Mais Poderosos da Terra'?",
+      "answers": ["Thanos", "Ultron", "Loki", "Galactus"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'DuckTales', qual é o nome do tio rico de Huguinho, Zezinho e Luizinho?",
+      "answers": ["Patinhas", "Donald", "Scrooge", "Gastão"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome da personagem principal em 'Kim Possible'?",
+      "answers": ["Shego", "Ron Stoppable", "Kim Possible", "Dr. Drakken"],
+      "correct": "C"
+    },
+    {
+      "question": "Em 'Rugrats: Os Anjinhos', qual é o nome do bebê careca líder do grupo?",
+      "answers": ["Chuckie", "Tommy", "Phil", "Lil"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual é o nome do protagonista da série 'Ben 10'?",
+      "answers": ["Kevin", "Max", "Ben", "Gwen"],
+      "correct": "C"
+    },
+    {
+      "question": "Em 'Steven Universo', qual é o nome da personagem principal?",
+      "answers": ["Amethyst", "Pearl", "Steven", "Garnet"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual é o nome da vila onde vive Naruto Uzumaki no anime 'Naruto'?",
+      "answers": ["Vila Oculta da Névoa", "Vila Oculta da Areia", "Vila Oculta da Folha", "Vila Oculta da Pedra"],
+      "correct": "C"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Qual é o nome do protagonista masculino em 'Boys Over Flowers'?",
+      "answers": ["Ji Hoo", "Jun Pyo", "Yi Jung", "Woo Bin"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'Descendants of the Sun', qual é a profissão da protagonista feminina Kang Mo-yeon?",
+      "answers": ["Advogada", "Policial", "Médica", "Professora"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual dorama é conhecido pela frase 'Você é minha heroína'?",
+      "answers": ["Strong Woman Do Bong Soon", "My Love from the Star", "Goblin", "Healer"],
+      "correct": "D"
+    },
+    {
+      "question": "Quem é o guarda-costas do Anjo da Morte em 'Goblin'?",
+      "answers": ["Sunny", "Kim Shin", "Deok Hwa", "Yoo Deok Hwa"],
+      "correct": "C"
+    },
+    {
+      "question": "Em 'My Love from the Star', quantos anos Do Min Joon viveu na Terra?",
+      "answers": ["300", "400", "500", "600"],
+      "correct": "D"
+    },
+    {
+      "question": "Qual dorama tem como protagonista uma advogada que pode ouvir pensamentos?",
+      "answers": ["I Hear Your Voice", "While You Were Sleeping", "Pinocchio", "W: Two Worlds"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'The Heirs', quem é o herdeiro da Jeguk Group?",
+      "answers": ["Kim Tan", "Choi Young Do", "Lee Hyo Shin", "Yoon Chan Young"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual é o nome da protagonista feminina em 'Weightlifting Fairy Kim Bok Joo'?",
+      "answers": ["Kim Bok Joo", "Song Shi Ho", "Jung Nan Hee", "Lee Sun Ok"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'You're Beautiful', qual é o nome do líder da banda A.N.Jell?",
+      "answers": ["Hwang Tae Kyung", "Kang Shin Woo", "Jeremy", "Go Mi Nam"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual dorama apresenta um romance entre uma roteirista e um CEO de uma empresa de entretenimento?",
+      "answers": ["The Master's Sun", "Kill Me, Heal Me", "Oh My Venus", "It's Okay, That's Love"],
+      "correct": "C"
+    },
+    {
+      "question": "Em 'Healer', qual é a profissão secreta do protagonista?",
+      "answers": ["Repórter", "Detetive", "Assassino de aluguel", "Mensageiro noturno"],
+      "correct": "D"
+    },
+    {
+      "question": "Qual é o nome do CEO frio e calculista em 'What's Wrong with Secretary Kim'?",
+      "answers": ["Lee Young Joon", "Park Seo Joon", "Kim Mi So", "Go Gwi Nam"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'Crash Landing on You', qual é o país de origem de Yoon Se-ri?",
+      "answers": ["Coreia do Norte", "Japão", "Coreia do Sul", "China"],
+      "correct": "C"
+    },
+    {
+      "question": "Qual dorama se passa em uma escola de música e dança?",
+      "answers": ["Dream High", "School 2013", "Reply 1988", "Cheese in the Trap"],
+      "correct": "A"
+    },
+    {
+      "question": "Em 'Secret Garden', quem é o CEO da Loja de Departamentos LOEL?",
+      "answers": ["Kim Joo Won", "Oska", "Han Tae Sun", "Choi Woo Young"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual dorama conta a história de um rapaz que viaja no tempo para salvar sua mãe?",
+      "answers": ["Signal", "Tunnel", "Nine: Nine Times Time Travel", "365: Repeat the Year"],
+      "correct": "C"
+    },
+    {
+      "question": "Quem é a protagonista feminina em 'Strong Woman Do Bong Soon'?",
+      "answers": ["Do Bong Soon", "Baek Mi Kyung", "Cha Eun Woo", "Oh Soon Nam"],
+      "correct": "A"
+    },
+    {
+      "question": "Qual dorama apresenta um médico que viaja de volta à era Joseon?",
+      "answers": ["Faith", "Dr. Jin", "Queen In Hyun's Man", "Rooftop Prince"],
+      "correct": "B"
+    },
+    {
+      "question": "Em 'The Legend of the Blue Sea', qual é o nome da sereia protagonista?",
+      "answers": ["Ha Ji Won", "Shim Chung", "Yoon Se Na", "Oh Yeon Joo"],
+      "correct": "B"
+    },
+    {
+      "question": "Qual dorama apresenta um romance entre uma secretária e seu chefe após ela decidir se demitir?",
+      "answers": ["Because This Is My First Life", "Her Private Life", "What's Wrong with Secretary Kim", "Something in the Rain"],
+      "correct": "C"
+    }
+  ]
+}
